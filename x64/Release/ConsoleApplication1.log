@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+  game.cpp
+D:\Visual Studio 2022\game\game.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Visual Studio 2022\game\game.cpp(50,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\Visual Studio 2022\game\game.cpp(93): warning C4715: “judge_game”: 不是所有的控件路径都返回值
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> D:\Visual Studio 2022\game\x64\Release\ConsoleApplication1.exe
